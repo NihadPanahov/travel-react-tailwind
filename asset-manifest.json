@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-react-tailwind/static/css/main.7ef61b3b.css",
+    "main.js": "/travel-react-tailwind/static/js/main.0e036996.js",
+    "static/media/video (1080p).mp4": "/travel-react-tailwind/static/media/video (1080p).6b4c5f7e8eada276da7e.mp4",
+    "static/media/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg": "/travel-react-tailwind/static/media/pietro-de-grandi-T7K4aEPoGGk-unsplash.45d8e7b319a1c2340f9d.jpg",
+    "static/media/keywest.jpg": "/travel-react-tailwind/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/travel-react-tailwind/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/travel-react-tailwind/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/travel-react-tailwind/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/travel-react-tailwind/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/travel-react-tailwind/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/photo-1472982728022-601a8d99e9af.avif": "/travel-react-tailwind/static/media/photo-1472982728022-601a8d99e9af.c6310770e39ec1bbf914.avif",
+    "static/media/photo-1621856818246-0a053d5b276b.avif": "/travel-react-tailwind/static/media/photo-1621856818246-0a053d5b276b.e131304bb0f2f17bad8a.avif",
+    "static/media/photo-1505159940484-eb2b9f2588e2.avif": "/travel-react-tailwind/static/media/photo-1505159940484-eb2b9f2588e2.4ed7c1e17f5c24a294c7.avif",
+    "static/media/photo-1455156218388-5e61b526818b.avif": "/travel-react-tailwind/static/media/photo-1455156218388-5e61b526818b.09093605607b7145b878.avif",
+    "index.html": "/travel-react-tailwind/index.html",
+    "main.7ef61b3b.css.map": "/travel-react-tailwind/static/css/main.7ef61b3b.css.map",
+    "main.0e036996.js.map": "/travel-react-tailwind/static/js/main.0e036996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef61b3b.css",
+    "static/js/main.0e036996.js"
+  ]
+}
